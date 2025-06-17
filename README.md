@@ -24,12 +24,6 @@
 - LinkedIn: www.linkedin.com/in/igor-acácio-9b27b5261  
 
 ---
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=igornorante&layout=compact&langs_count=100&theme=radical" alt="Todas as Linguagens">
-
-
-</div>
 <div>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" />
