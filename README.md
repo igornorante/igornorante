@@ -21,8 +21,7 @@
 
 
 - Email: igorjosafa54@gmail.com  
-- LinkedIn: [linkedin.com/in/igor-ac](https://linkedin.com/in/igor-ac)  
-- GitHub: [github.com/igor](https://github.com/igor)
+- LinkedIn: [linkedin.com/in/igor-ac](www.linkedin.com/in/igor-acácio-9b27b5261)  
 
 ---
 
