@@ -26,7 +26,8 @@
 ---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=igornorante&layout=compact&langs_count=20&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=igornorante&layout=compact&langs_count=100&theme=radical" alt="Todas as Linguagens">
+
 
 </div>
 <div>
