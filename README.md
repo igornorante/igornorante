@@ -53,5 +53,5 @@ _Ciência da Computação_ — Jan/2021 - Jun/2026
 ---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=igor&layout=compact&theme=radical" alt="Top Languages">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=igornorante&layout=compact&theme=radical" alt="Top Languages">
 </div>
