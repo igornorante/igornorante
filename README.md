@@ -1,4 +1,4 @@
-<h1 align="center">👋 Olá! Eu sou o Igor Cristian Acácio Josafá</h1>
+<h1 align="center">👋 Olá! Eu sou o Igor Acácio</h1>
 
 <p align="center">
   Estudante de Ciência da Computação na <strong>Universidade Federal de Viçosa (UFV)</strong><br>
