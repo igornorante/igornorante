@@ -21,7 +21,7 @@
 
 
 - Email: igorjosafa54@gmail.com  
-- LinkedIn: [linkedin.com/in/igor]([www.linkedin.com/in/igor-acácio-9b27b5261](https://www.linkedin.com/in/igor-ac%C3%A1cio-9b27b5261/))  
+- LinkedIn: [linkedin.com/in/igor](www.linkedin.com/in/igor-acácio-9b27b5261)  
 
 ---
 
