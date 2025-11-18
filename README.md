@@ -9,11 +9,11 @@
 
 ### 💻 Tecnologias e Linguagens que trabalho:
 
-- **Linguagens:** Python, R, PHP, TypeScript, JavaScript, C++, C, C#
-- **Frameworks & Bibliotecas:** Laravel, FastAPI, React, Spring Boot, .NET, ASP.NET
+- **Linguagens:**  C#, Python, R, PHP, TypeScript, JavaScript, C++, C
+- **Frameworks & Bibliotecas:**  .NET, ASP.NET, Laravel, FastAPI, React, Spring Boot
 - **Web:** HTML, CSS, JavaScript, TypeScript
-- **Banco de Dados:** MySQL, SQL Server
-- **Ferramentas:** Git, Docker, VSCode, Linux
+- **Banco de Dados:** SQL Server, MySQL
+- **Ferramentas:** BitBucket, Git, Docker, VSCode, Linux
 - **Testes e Qualidade:** Elaboração e execução de testes funcionais
 
 ---
